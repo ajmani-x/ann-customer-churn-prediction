@@ -1,5 +1,7 @@
 # Customer Churn Prediction using Artificial Neural Network (ANN)
 
+The model is trained using TensorFlow/Keras and includes multiple layers, dropout regularization, and feature scaling as part of hands-on learning of ANN fundamentals.
+
 ## 📝 Project Description
 This project implements an **Artificial Neural Network (ANN)** to predict customer churn based on a dataset containing customer details from a bank. The goal is to identify customers who are likely to leave, helping businesses make data-driven retention decisions.
 
